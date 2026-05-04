@@ -107,14 +107,14 @@ html:not([data-dark]) {
     --text-secondary: hsl(var(--hue), 10%, 45%);
     --text-tertiary: hsl(var(--hue), 8%, 60%);
     --text-on-dark: #ffffff;
-    --text-on-dark-muted: rgba(255,255,255,0.65);
+    --text-on-dark-muted: rgba(255, 255, 255, 0.65);
     
     --border-light: hsl(var(--hue), 10%, 90%);
     --border-medium: hsl(var(--hue), 10%, 85%);
     
-    --shadow-sm: 0 2px 8px rgba(0,0,0,0.04);
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.04);
     --shadow-md: 0 8px 30px rgba(0,0,0,0.06);
-    --shadow-lg: 0 20px 60px rgba(0,0,0,0.08);
+    --shadow-lg: 0 20px 60px rgba(0, 0, 0, 0.08);
     --shadow-accent: 0 8px 30px hsla(var(--accent-h), var(--accent-s), var(--accent-l), 0.25);
 }
 
